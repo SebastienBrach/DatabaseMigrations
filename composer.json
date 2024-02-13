@@ -1,0 +1,11 @@
+{
+    "require": {
+        "robmorgan/phinx": "^0.13.4",
+        "symfony/console": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Commands\\": "Commands/"
+        }
+    }
+}
