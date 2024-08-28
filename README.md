@@ -1,5 +1,9 @@
 # DatabaseMigrations
-DatabaseMigrations
+Ce repository contient des scripts et des configurations pour gérer les migrations de bases de données en utilisant la librairie Phinx. Il permet de versionner et d’appliquer des modifications de schéma de base de données de manière contrôlée et reproductible.
+
+## Prérequis
+- PHP (>=7.4)
+- Composer
 
 ## Doc migrations
 ```https://book.cakephp.org/phinx/0/en/migrations.html```
